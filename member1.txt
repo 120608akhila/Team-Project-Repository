@@ -1,0 +1,7 @@
+Team Member 1 Contribution
+
+Name: Team Member 1
+
+Contribution:
+Created the project documentation file and contributed
+to the team repository using Git branching workflow.
